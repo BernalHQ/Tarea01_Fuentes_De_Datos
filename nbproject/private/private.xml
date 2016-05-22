@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_Usuario.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/Panel_Usuario.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/Panel_InformacionBasica.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_Login.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/ConexionBD.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/controlador/Controlador_FRM_VentanaPrincipal.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/controlador/Controlador_FRM_Usuario.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_VentanaPrincipal.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_MantenimientoEstudiantes.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_MantenimientoCursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/FRM_Matricula.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/controlador/Controlador_FRM_Matricula.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/controlador/Controlador_FRM_MantenimientoEstudiantes.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/Panel_Botones.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Estudiante.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/controlador/Controlador_FRM_MantenimientoCursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/MetodosEstudiantes.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/ArchivoEstudiante.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/MetodosCursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/ArchivoCursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/vista/Panel_Cursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Cursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/MetodosMatricula.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Matricula.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/ArchivoMatricula.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Metodos_XML_Estudiantes.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Metodos_XML_Cursos.java</file>
+            <file>file:/C:/Users/acerpc/Documents/NetBeansProjects/Ejercicio001%20BD,%20xml,%20archivo%20planos/src/modelo/Metodos_XML_Matricula.java</file>
+        </group>
+    </open-files>
+</project-private>
